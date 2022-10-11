@@ -23,6 +23,8 @@ After that, copy the following code and paste it into the Manifest file inside t
 To implement banner ads we have to work on our java and XML files. XML files are used for design and java files are used to control our ad.
 
 Banner XML files
+  
+  
    <androidx.appcompat.widget.LinearLayoutCompat
         android:layout_centerHorizontal="true"
         android:layout_alignParentBottom="true"
@@ -30,6 +32,8 @@ Banner XML files
         android:layout_width="match_parent"
         android:layout_height="50dp">
     </androidx.appcompat.widget.LinearLayoutCompat>
+  
+  
 Add this XML file to your desired Activity.xml files.
 
 
